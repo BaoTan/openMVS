@@ -1,0 +1,3 @@
+[submodule "third-party/openMVS_sample"]
+	path = third-party/openMVS_sample
+	url = git@github.com:cdcseacave/openMVS_sample.git
